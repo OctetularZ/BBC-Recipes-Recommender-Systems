@@ -1,5 +1,5 @@
-# 🍽️ Recipe Recommender & Taste Prediction System  
-**University of Leicester – CO2106: Data Analytics Coursework 2**  
+# 🍽️ Recipe Recommender & Taste Prediction System
+**Data Analytics** 
 *Web Scraping, Recommender Systems, and Predictive Modeling*
 
 ## 📌 Project Overview
