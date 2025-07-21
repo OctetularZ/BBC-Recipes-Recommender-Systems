@@ -1,4 +1,7 @@
 # 🍽️ Recipe Recommender & Taste Prediction System
+
+![Recommender Example](./recommender-example.png)
+
 **University Group Coursework - Data Analytics**
 *Web Scraping, Recommender Systems, and Predictive Modeling*
 
