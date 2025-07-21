@@ -1,5 +1,5 @@
 # 🍽️ Recipe Recommender & Taste Prediction System
-**Data Analytics** 
+**University Group Coursework - Data Analytics**
 *Web Scraping, Recommender Systems, and Predictive Modeling*
 
 ## 📌 Project Overview
