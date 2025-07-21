@@ -73,24 +73,6 @@ Machine Learning is essential to **learn from data** and drive intelligent outco
 
 ---
 
-## 📸 Sample Visualizations
-
-<details>
-  <summary>📊 Rating Distribution</summary>
-
-  ![rating_distribution](assets/rating_distribution.png)
-
-</details>
-
-<details>
-  <summary>🍽️ Top Rated Recipes</summary>
-
-  ![top_recipes](assets/top_recipes.png)
-
-</details>
-
----
-
 ## 📚 Learning Outcomes
 
 - ✅ Mastered web scraping techniques with Python and `BeautifulSoup`
@@ -99,11 +81,3 @@ Machine Learning is essential to **learn from data** and drive intelligent outco
 - ✅ Practiced evaluating ML models using real-world metrics (accuracy, personalization, coverage)
 - ✅ Reinforced Python skills in data handling, ML, and data visualization
 
----
-
-## 🚀 Getting Started
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/recipe-recommender.git
-   cd recipe-recommender
